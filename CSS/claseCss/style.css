@@ -1,0 +1,16 @@
+p{
+    color: red;
+    font-size: 40px;
+}
+
+/* CLASS */
+.parrafo{
+    color: blue;
+    font-size: 40px;
+}
+
+/* ID */
+#parrafo2{
+    color: greenyellow;
+    font-size: 16px;
+}

@@ -1,0 +1,18 @@
+.figure img{
+    width: 20%;
+    height: auto; 
+    color: blue;
+}
+
+h1 {
+    font-style: oblique;
+}
+
+.titles{
+    color:black ;
+    font-weight: bolder;
+}
+
+.subtitles{
+    color: blue;
+}
